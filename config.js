@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'GitHub',
-			icon: 'github',
-			link: 'https://github.com/notifications',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/feed/subscriptions',
 		},
 		{
 			id: '4',
@@ -160,10 +160,6 @@ const CONFIG = {
 			icon: 'tv',
 			id: '2',
 			links: [
-				{
-					name: 'YouTube',
-					link: 'https://www.youtube.com/feed/subscriptions',
-				},
 				{
 					name: 'Dropout',
 					link: 'https://www.dropout.tv/new-releases',
